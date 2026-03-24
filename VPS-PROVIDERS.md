@@ -1,7 +1,9 @@
-# US VPS Providers (Budget-focused)
+# VPS Providers (Budget-focused)
 
-> Focus: US availability, often around **$6/month or less** (pricing/stock/terms change frequently).
+> Focus: budget-oriented VPS options by region, often around **$6/month or less** when possible (pricing/stock/terms change frequently).
 > Fields like speed/transfer/refund are marked **Varies** when they differ by plan/region or change often.
+
+## US VPS Providers
 
 | Provider | Official URL | US locations (examples) | Often <= $6/mo? | IPv6 | Port speed | Monthly transfer | Refund policy | Reputation notes |
 |---|---|---|---|---|---|---|---|---|
@@ -35,3 +37,20 @@
 | Hostinger VPS | https://www.hostinger.com/vps-hosting | US (varies) | Sometimes | Varies | Varies | Varies | Varies | Mass-market; verify performance/limits |
 | Namecheap VPS | https://www.namecheap.com/hosting/vps/ | US (varies) | Sometimes | Varies | Varies | Varies | Varies | Mass-market; okay baseline |
 | GoDaddy VPS | https://www.godaddy.com/hosting/vps-hosting | US (varies) | Usually > $6 | Varies | Varies | Varies | Varies | Often pricier; verify value |
+
+## Singapore VPS Providers
+
+> Singapore availability below was checked against official provider pages on **2026-03-24**. Pricing and stock can still change.
+
+| Provider | Official URL | Singapore locations (examples) | Often <= $6/mo? | IPv6 | Port speed | Monthly transfer | Refund policy | Reputation notes |
+|---|---|---|---|---|---|---|---|---|
+| Vultr | https://www.vultr.com/ | Singapore SG | Often around $6 | Varies | Varies | Varies | Varies | Mainstream; easy onboarding; Singapore region available |
+| DigitalOcean | https://www.digitalocean.com/ | Singapore region | Yes | Yes | Varies | Varies | Varies | Mainstream; strong docs; current entry plans still hit the budget threshold |
+| Linode (Akamai) | https://www.linode.com/ | Singapore core region | Often ~$5-6 | Yes | Varies | Varies | Varies | Solid baseline; Singapore is one of Linode's APAC core options |
+| UpCloud | https://upcloud.com/ | SG-SIN1 | Yes | Varies | Varies | Varies | Varies | Good performance reputation; consistent global pricing helps in SG too |
+| Oracle Cloud (OCI) | https://www.oracle.com/cloud/ | Singapore region | Yes (Free Tier options) | Yes | Varies | Varies | Varies | Free tier can be attractive; account verification can be strict |
+| Kamatera | https://www.kamatera.com/ | Singapore | Sometimes | Varies | Varies | Varies | Varies | Flexible hourly/monthly billing; can get pricey with add-ons |
+| Leaseweb | https://www.leaseweb.com/ | Singapore data centers (varies) | Usually > $6 | Varies | Varies | Varies | Varies | More business-oriented; established Singapore footprint |
+| HostHatch | https://hosthatch.com/ | Singapore (Epsilon) | Sometimes | Varies | Varies | Varies | Varies | Popular value/performance pick when stock and plans line up |
+| GreenCloudVPS | https://greencloudvps.com/ | Singapore DC2 | Yes | Yes | Varies | Varies | Varies | Budget-oriented provider with SG plans around the $6 mark |
+| LightNode | https://www.lightnode.com/ | Singapore data center | Usually > $6 | Varies | Varies | Varies | Varies | Broad location coverage and hourly billing; verify current plan fit |
